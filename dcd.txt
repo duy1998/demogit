@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-asdsadqwe
-qwewqeqwe
-qweqwewqe
-qwewqeqwe
-=======
-dasdasq
-wewq
-qweqwaasd
- chua merger
->>>>>>> branch1
+1
+2
+3
+4
+5
+6
