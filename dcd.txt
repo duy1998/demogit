@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 asdsadqwe
 qwewqeqwe
 qweqwewqe
 qwewqeqwe
+=======
+dasdasq
+wewq
+qweqwaasd
+ chua merger
+>>>>>>> branch1
